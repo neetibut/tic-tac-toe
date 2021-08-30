@@ -1,6 +1,6 @@
 {
   "name": "my-app-1",
-  "homepage": "http://neetibut.github.io/tic-tac-toe",
+  "homepage": "https://neetibut.github.io/tic-tac-toe",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
